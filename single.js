@@ -12,7 +12,7 @@
 
 function sum(i){
     if(i === 1){
-        return i;
+        return 1;
     }
     return i + sum(i-1);
 }
