@@ -5,10 +5,10 @@
 
 // products[0];
 
-const products = {
-    '0' = 1,
-    '3' = 3,
-    '4' = 5
-}
+// const products = {
+//     '0' = 1,
+//     '3' = 3,
+//     '4' = 5
+// }
 
 products[0];
